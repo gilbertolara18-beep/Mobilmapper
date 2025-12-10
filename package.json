@@ -2,7 +2,7 @@
   "name": "geosmart-mapper",
   "version": "1.0.0",
   "private": true,
-  "homepage": ".",
+  "página principal": "/mobilmapper",
   "dependencies": {
     "@google/genai": "^1.32.0",
     "leaflet": "^1.9.4",
