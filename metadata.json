@@ -1,0 +1,9 @@
+{
+  "name": "Copy of GeoSmart Mapper",
+  "description": "Herramienta de levantamiento de campo PWA con conversión UTM, análisis de terreno con IA y exportación KML.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
